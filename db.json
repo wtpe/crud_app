@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "hai",
+      "email": "hai@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "ba",
+      "email": "ba@gmail.com"
+    },
+    {
+      "name": "hello",
+      "email": "abc@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "thanhngo2532002@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Ngô Tiến Thành",
+      "email": "thanhngo2532002@gmail.com",
+      "id": 6
+    }
+  ]
+}
